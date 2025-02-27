@@ -1,0 +1,64 @@
+timeLoading: 10 timeSlice: 500
+Instant 0: ide 0 loading
+Instant 10: ide 0 running, required 300
+Instant 310: ide 0 extracted, required 0
+Instant 310: ide 1 loading
+Instant 320: ide 1 running, required 400
+Instant 720: ide 1 extracted, required 0
+Instant 720: ide 2 loading
+Instant 730: ide 2 running, required 500
+Instant 1230: ide 2 extracted, required 0
+Instant 1230: ide 3 loading
+Instant 1240: ide 3 running, required 600
+Instant 1740: ide 3 extracted, required 100
+Instant 1740: ide 4 loading
+Instant 1750: ide 4 running, required 700
+Instant 2250: ide 4 extracted, required 200
+Instant 2250: ide 5 loading
+Instant 2260: ide 5 running, required 125
+Instant 2385: ide 5 extracted, required 0
+Instant 2385: ide 6 loading
+Instant 2395: ide 6 running, required 136
+Instant 2531: ide 6 extracted, required 0
+Instant 2531: ide 7 loading
+Instant 2541: ide 7 running, required 551
+Instant 3041: ide 7 extracted, required 51
+Instant 3041: ide 8 loading
+Instant 3051: ide 8 running, required 980
+Instant 3551: ide 8 extracted, required 480
+Instant 3551: ide 9 loading
+Instant 3561: ide 9 running, required 230
+Instant 3791: ide 9 extracted, required 0
+Instant 3791: ide 10 loading
+Instant 3801: ide 10 running, required 1501
+Instant 4301: ide 10 extracted, required 1001
+Instant 4301: ide 3 loading
+Instant 4311: ide 3 running, required 100
+Instant 4411: ide 3 extracted, required 0
+Instant 4411: ide 4 loading
+Instant 4421: ide 4 running, required 200
+Instant 4621: ide 4 extracted, required 0
+Instant 4621: ide 7 loading
+Instant 4631: ide 7 running, required 51
+Instant 4682: ide 7 extracted, required 0
+Instant 4682: ide 8 loading
+Instant 4692: ide 8 running, required 480
+Instant 5172: ide 8 extracted, required 0
+Instant 5172: ide 10 loading
+Instant 5182: ide 10 running, required 1001
+Instant 6183: ide 10 extracted, required 0
+Ide    End   Max   Total
+ 0     310     0       0
+ 1     720   310     310
+ 2    1230   720     720
+ 3    4411  2561    3791
+ 4    4621  2161    3901
+ 5    2385  2250    2250
+ 6    2531  2385    2385
+ 7    4682  2531    4111
+ 8    5172  3041    4172
+ 9    3791  3551    3551
+10    6183  3791    4662
+Average of max: 2118
+Max of max: 3791
+Average of total: 2713

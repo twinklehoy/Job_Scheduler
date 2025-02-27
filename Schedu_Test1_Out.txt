@@ -1,0 +1,23 @@
+timeLoading: 10 timeSlice: 500
+Instant 0: ide 0 loading
+Instant 10: ide 0 running, required 120
+Instant 130: ide 0 extracted, required 0
+Instant 130: ide 1 loading
+Instant 140: ide 1 running, required 600
+Instant 640: ide 1 extracted, required 100
+Instant 640: ide 2 loading
+Instant 650: ide 2 running, required 700
+Instant 1150: ide 2 extracted, required 200
+Instant 1150: ide 1 loading
+Instant 1160: ide 1 running, required 100
+Instant 1260: ide 1 extracted, required 0
+Instant 1260: ide 2 loading
+Instant 1270: ide 2 running, required 200
+Instant 1470: ide 2 extracted, required 0
+Ide    End   Max   Total
+ 0     130     0       0
+ 1    1260   510     640
+ 2    1470   640     750
+Average of max: 383
+Max of max: 640
+Average of total: 463
