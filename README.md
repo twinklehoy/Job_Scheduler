@@ -37,12 +37,15 @@ Each process contains the following information:
 
 ### Compilation
 
-Compile the project using gcc:
+You can either:
+
+1. Compile the project using gcc:
 
 ```bash
 gcc -o scheduler Scheduler_Tester.c QueueProce.c Processo.c -std=c99
 ```
-
+2. Execute the `compile.bat` file
+   
 ### Execution
 
 Run the program with the following command-line arguments:
